@@ -14,7 +14,12 @@
   "keywords": [
     "test"
   ],
-  "author": "Ryan Boyce",
+  "author": "Ryan Boyce <ryanjosephboyce@gmail.com>",
+  "dependencies": {
+    "async": ">=2.4.0",
+    "express": ">=4.15.2",
+    "request": ">=2.81.0"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rjb-esq/dev-api-test/issues"
